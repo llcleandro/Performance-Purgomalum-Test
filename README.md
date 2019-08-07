@@ -6,6 +6,7 @@ This project sample using JMeter with and without parameters, report .jtl and in
 
 * Apache JMeter 5.1.1
 * Java 8+
+* Purgomalum http://www.purgomalum.com/
 
 ## Installation Instructions
 
