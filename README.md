@@ -1,4 +1,4 @@
-# Peformance Tests API Purgomalum
+# Peformance Tests API Rest PurgoMalum
 
 This project sample using JMeter with and without parameters, report .jtl and input data with .csv
 
@@ -29,4 +29,5 @@ This project sample using JMeter with and without parameters, report .jtl and in
 
 ## PurgoMalum
 
-* PurgoMalum is a simple, free, RESTful web service for filtering and removing content of profanity, obscenity and other unwanted text. PurgoMalum's interface accepts several parameters for customization and can return results in plain text, XML and JSON. See more in http://www.purgomalum.com/
+* PurgoMalum is a simple, free, RESTful web service for filtering and removing content of profanity, obscenity and other unwanted text. PurgoMalum's interface accepts several parameters for customization and can return results in plain text, XML and JSON. 
+* See more in http://www.purgomalum.com/
